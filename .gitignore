@@ -1,2 +1,5 @@
 # Ignore the .env configuration file
 .env
+
+# Ignore Vagrant VM files
+.vagrant/
