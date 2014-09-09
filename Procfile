@@ -1,0 +1,1 @@
+admin: sh -c "cd admin && bundle exec rails server -p 3000"
