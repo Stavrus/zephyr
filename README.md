@@ -1,5 +1,8 @@
 Zephyr
 ======
+[![Build Status](https://travis-ci.org/Stavrus/zephyr.svg)](https://travis-ci.org/Stavrus/zephyr)
+[![Code Climate](https://codeclimate.com/github/Stavrus/zephyr/badges/gpa.svg)](https://codeclimate.com/github/Stavrus/zephyr)
+[![Test Coverage](https://codeclimate.com/github/Stavrus/zephyr/badges/coverage.svg)](https://codeclimate.com/github/Stavrus/zephyr)
 
 This repository is being used to test tools and services (CI, deploys, etc). Feel free to ignore.
 
